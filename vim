@@ -1,0 +1,9 @@
+set nocompatible
+set nu
+syntax enable
+set background=dark
+colorscheme solarized
+set clipboard=unnamedplus
+set nu
+set ruler
+set term=screen-256color
